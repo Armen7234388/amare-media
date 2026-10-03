@@ -1,0 +1,18 @@
+{
+  "offer_id": "example-offer-id",
+  "images": [
+    {"file": "images/01-main.png", "sha256": ""},
+    {"file": "images/02-feature.png", "sha256": ""},
+    {"file": "images/03-material.png", "sha256": ""},
+    {"file": "images/04-size.png", "sha256": ""},
+    {"file": "images/05-use.png", "sha256": ""},
+    {"file": "images/06-storage.png", "sha256": ""},
+    {"file": "images/07-details.png", "sha256": ""},
+    {"file": "images/08-final.png", "sha256": ""}
+  ],
+  "video": {
+    "file": "video/01-main.mp4",
+    "sha256": "",
+    "name": "Видео товара"
+  }
+}
