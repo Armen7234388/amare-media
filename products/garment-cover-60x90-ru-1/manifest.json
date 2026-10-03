@@ -1,0 +1,78 @@
+{
+  "offer_id": "garment-cover-60x90-ru-1",
+  "images": [
+    {
+      "file": "images/01-main.png",
+      "sha256": "5f66d265207764ae292dbfc8fb72a848e4931c1d130c012f82ca7f24f45a8b59",
+      "bytes": 1944599,
+      "dropbox": {
+        "rev": "0165ce60953806a00000003903cd993",
+        "content_hash": "f8a15db1e27643f4b3274b6cad3671828a0938ecd51dd411835446d7b83f06e1"
+      }
+    },
+    {
+      "file": "images/02-variants.png",
+      "sha256": "e3aa5ac7f52b6a35056914ed6645be62bff4f21061b83bef10fc05c961bff5c4",
+      "bytes": 2016714,
+      "dropbox": {
+        "rev": "0165ce60989fd8d00000003903cd993",
+        "content_hash": "1c8537defeb8ac7df06584cde8d6935e7578a0491a0e04d88e3ea59a96d79f06"
+      }
+    },
+    {
+      "file": "images/03-protection.png",
+      "sha256": "baa5cf9036700d6c3816505952e43d5c1cf707e24ce255fe70b4f365b0063987",
+      "bytes": 2096909,
+      "dropbox": {
+        "rev": "0165ce609cb603300000003903cd993",
+        "content_hash": "2cdc7b8dd78aa93bd4ac0abf3ca8842e16b22dfe07f5bd3ae8720702c9fa38de"
+      }
+    },
+    {
+      "file": "images/04-size.png",
+      "sha256": "1c9df13e6c53aac666b9e8fab144601bacab298ebf31e01cc5fd92035a987445",
+      "bytes": 1950010,
+      "dropbox": {
+        "rev": "0165ce60a0a75b300000003903cd993",
+        "content_hash": "d7b617f91ef2e52821a9876f2587de25b42afa8dc4282c6769c45aa8fe33a005"
+      }
+    },
+    {
+      "file": "images/05-use.png",
+      "sha256": "325eb8ac8c97f3bdd282016414e7527d343829039b648d4796eb522a65eb9d08",
+      "bytes": 2079189,
+      "dropbox": {
+        "rev": "0165ce60a450e8200000003903cd993",
+        "content_hash": "39f8ddda5653da4b8e78849d9ef3dab2d5ab55a6348b1d8c68178050fa9e8dfa"
+      }
+    },
+    {
+      "file": "images/06-wardrobe.png",
+      "sha256": "f397b63d03d3b59fce6476b3493cdd2391beec0d60b19cd8cc47aa91c4e1ca5d",
+      "bytes": 2042920,
+      "dropbox": {
+        "rev": "0165ce60a6e9e5a00000003903cd993",
+        "content_hash": "19a64f46c503f7be1ede64fba6acb42d02faabeafa173601b572b77441e1b9c8"
+      }
+    },
+    {
+      "file": "images/07-details.png",
+      "sha256": "c8b1f6c72d45062311e9ed209fe82da049d67faf0b183e6cfe755feb81cdf83c",
+      "bytes": 1939386,
+      "dropbox": {
+        "rev": "0165ce60aaddc3b00000003903cd993",
+        "content_hash": "46e72198fd97eedd5b2b51f8eba6473946d427556645cd62f389b5258c46d0b3"
+      }
+    },
+    {
+      "file": "images/08-final.png",
+      "sha256": "0ffa881ad4eeac5d819bde7b44e2bcab46795d8d3bf3aea7f3a54937b04d981f",
+      "bytes": 1965815,
+      "dropbox": {
+        "rev": "0165ce60ac8fbf800000003903cd993",
+        "content_hash": "b6dc4c6d162886f66232608e9b7cc89ec686ba9b2678e11d5e89c503b699da8c"
+      }
+    }
+  ],
+  "video": null
+}
