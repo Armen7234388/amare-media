@@ -74,5 +74,12 @@
       }
     }
   ],
-  "video": null
+  "video": {
+    "file": "video/main.mp4",
+    "sha256": "3952d491ca4466fa599857de2a598fef55da44424413173e70158eab45cc99fa",
+    "bytes": 3072934,
+    "generated_from": "approved_8_image_set",
+    "duration_seconds": 12.267,
+    "aspect_ratio": "3:4"
+  }
 }
