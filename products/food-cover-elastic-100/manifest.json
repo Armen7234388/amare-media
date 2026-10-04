@@ -1,0 +1,78 @@
+{
+  "offer_id": "food-cover-elastic-100",
+  "images": [
+    {
+      "file": "images/01-main.png",
+      "sha256": "820c5fe1b76b55d8bf2f6e18c62f8b1a667aa343c2e28e387ad6a0b49956edb6",
+      "bytes": 2297155,
+      "dropbox": {
+        "rev": "0165d0b99556c0700000003903cd993",
+        "content_hash": "25eb9f40bca33061f4e1041d32c3f13a8eccc8013d80809351754b99c469070a"
+      }
+    },
+    {
+      "file": "images/02-freshness.png",
+      "sha256": "b595bac22194d71ca05b18deb656f438f2fa773b66e34ad87e2bf3853ba2710c",
+      "bytes": 2085996,
+      "dropbox": {
+        "rev": "0165d0b99e80bdd00000003903cd993",
+        "content_hash": "6316fde2e8d19dcc55b373ab0bcb1bb2603a74b83b34d3be21b59b8888dffd37"
+      }
+    },
+    {
+      "file": "images/03-size.png",
+      "sha256": "43a0621d336b93ca3b0fbd90331b62c96c8fb914eeee6e71720fb304415ee153",
+      "bytes": 2116356,
+      "dropbox": {
+        "rev": "0165d0b99fc65ca00000003903cd993",
+        "content_hash": "0e7a9586fc8652119e6693c1d5126de8eb28aaea14881da04a3bd073e1de143b"
+      }
+    },
+    {
+      "file": "images/04-dishes.png",
+      "sha256": "382ee91034fb8e30e77e453c2f443d147923c71bcbfbd420c372ccf7bd2d44ac",
+      "bytes": 2245809,
+      "dropbox": {
+        "rev": "0165d0b9a28537500000003903cd993",
+        "content_hash": "c91438fd91e7c19cd3ad1864ed323cc7a97f0c30984dc4708d3f9688b41a6ab1"
+      }
+    },
+    {
+      "file": "images/05-elastic.png",
+      "sha256": "6f42120bfb12a4f75bc081ee48ef100eaa48f538c2b84a6b69f9a32c2f41ac1a",
+      "bytes": 2232621,
+      "dropbox": {
+        "rev": "0165d0b9a4e418900000003903cd993",
+        "content_hash": "e679d177400f675ad255faa8567899c165bff785e1913063a80c3185638ac8ff"
+      }
+    },
+    {
+      "file": "images/06-transparent.png",
+      "sha256": "8d4612244a0a818d8430f64b469a49d443c55b7c62b6aafc3179acf884b8f3ad",
+      "bytes": 1970065,
+      "dropbox": {
+        "rev": "0165d0b9a5f90f000000003903cd993",
+        "content_hash": "2f7130ff1a302a7a78de46f95897093463136fe8a7467ab6fb8f4a1552fabadd"
+      }
+    },
+    {
+      "file": "images/07-package.png",
+      "sha256": "84ca205a40d662eda33d0179179b8f5e994cb96bc477b9d810c0a872e41c4c8e",
+      "bytes": 2186103,
+      "dropbox": {
+        "rev": "0165d0b9a771eb100000003903cd993",
+        "content_hash": "4286d94e7912f9dc4df642ce1e63a48aa71675c10044b0760b51c73a3bb58429"
+      }
+    },
+    {
+      "file": "images/08-kitchen.png",
+      "sha256": "656cf3ef094d89cdd1044697ea735af48443bca9f1dc741a58007f8ad4e9d551",
+      "bytes": 2319407,
+      "dropbox": {
+        "rev": "0165d0b9a974bb000000003903cd993",
+        "content_hash": "58f39d7699c758df6f8cd9c386c50c31a540225a43ea3ea044752333f61ff57b"
+      }
+    }
+  ],
+  "video": null
+}
