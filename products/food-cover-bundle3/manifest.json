@@ -1,0 +1,52 @@
+{
+  "offer_id": "food-cover-bundle3",
+  "images": [
+    {
+      "file": "images/01.png",
+      "sha256": "116ecff718ceac457bbf4976f70eef57af98e23e82a33f296878cb547c49ae31",
+      "bytes": 2121270
+    },
+    {
+      "file": "images/02.png",
+      "sha256": "9f3640b1d009139f9937ca9d37dceea7e990429b9a05aae569cff0901ebe4f4b",
+      "bytes": 2364719
+    },
+    {
+      "file": "images/03.png",
+      "sha256": "a6951527b945d496ac9a0d2986c56438060fb0c3668d7e070d2c5136c767380f",
+      "bytes": 2239204
+    },
+    {
+      "file": "images/04.png",
+      "sha256": "e5621f19da522a6cded6ad7fc0a8191f39d5ec4cc3e7816443368d1ad0c99b07",
+      "bytes": 1982363
+    },
+    {
+      "file": "images/05.png",
+      "sha256": "6f42120bfb12a4f75bc081ee48ef100eaa48f538c2b84a6b69f9a32c2f41ac1a",
+      "bytes": 2232621
+    },
+    {
+      "file": "images/06.png",
+      "sha256": "8d4612244a0a818d8430f64b469a49d443c55b7c62b6aafc3179acf884b8f3ad",
+      "bytes": 1970065
+    },
+    {
+      "file": "images/07.png",
+      "sha256": "84ca205a40d662eda33d0179179b8f5e994cb96bc477b9d810c0a872e41c4c8e",
+      "bytes": 2186103
+    },
+    {
+      "file": "images/08.png",
+      "sha256": "656cf3ef094d89cdd1044697ea735af48443bca9f1dc741a58007f8ad4e9d551",
+      "bytes": 2319407
+    }
+  ],
+  "video": {
+    "file": "video/main.mp4",
+    "sha256": "71dcee526bab99a15b17112b24815f483b8f50da5e0b35cb5cce89df50b7a64f",
+    "bytes": 3032759,
+    "duration_seconds": 12.267,
+    "aspect_ratio": "3:4"
+  }
+}
