@@ -1,0 +1,54 @@
+{
+  "offer_id": "mop-cotton-screw-1.1",
+  "sku": "5945244317",
+  "product_id": 6511568007,
+  "images": [
+    {
+      "file": "images/01.png",
+      "sha256": "31621098550c08c2953cc176e184b088032fa02698c11ec4dfe28e3ef22a966e",
+      "bytes": 1992196
+    },
+    {
+      "file": "images/02.png",
+      "sha256": "664d3a344c91c902323c8c7d5ad84c0265fa26151c4e207ce68bde0757f23af8",
+      "bytes": 2192560
+    },
+    {
+      "file": "images/03.png",
+      "sha256": "2f528ef1182d4d7ce93e02eedf808ec69ebe0d29b9ff35f4f4f918f0e352068d",
+      "bytes": 2345481
+    },
+    {
+      "file": "images/04.png",
+      "sha256": "327efdc40b8b7bf875e0613b05826c1c8d9bf19ee3b5599d44de5df89e737227",
+      "bytes": 2257321
+    },
+    {
+      "file": "images/05.png",
+      "sha256": "965c5cc390538609e0e7e4f1bb873057c879bcc374e1441875f2f846d685dc8c",
+      "bytes": 1941595
+    },
+    {
+      "file": "images/06.png",
+      "sha256": "7747984529da61b59068e579aa9ce345f25708034b3893a6be7b4798db838bc5",
+      "bytes": 2293775
+    },
+    {
+      "file": "images/07.png",
+      "sha256": "3f7b0d785cf8d66b614d19dfec22a406ba3a3591749b5b6ac9fdbae6d6ae0806",
+      "bytes": 2440315
+    },
+    {
+      "file": "images/08.png",
+      "sha256": "313b12a1c942c31bc0b5ded27e4ff5f96113b5801d33784b53eb9e97408d46d7",
+      "bytes": 2102350
+    }
+  ],
+  "video": {
+    "file": "video/main.mp4",
+    "sha256": "b50ee7e85ee7e6e5da526481faca150810554d12bbff17f55c716b75c28efd49",
+    "bytes": 2907349,
+    "duration_seconds": 12.267,
+    "aspect_ratio": "3:4"
+  }
+}
