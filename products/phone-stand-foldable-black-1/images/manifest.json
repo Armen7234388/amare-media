@@ -1,0 +1,14 @@
+{
+  "schema": "amare.media.manifest/v1",
+  "offer_id": "phone-stand-foldable-black-1",
+  "images": [
+    {
+      "file": "01-main.png",
+      "role": "primary",
+      "sha256": "d25518f38978ccfb8e348aee261c57397d37d19f6dd6b7ca294fa247f3a0d66e",
+      "size_bytes": 2065240,
+      "source_name": "Чёрная складная подставка для телефона.png"
+    }
+  ],
+  "price_visible": false
+}
